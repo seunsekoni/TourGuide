@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/abk_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha=".75"
+    android:background="@color/colorGrey"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/places_abk"
+        style="@style/CategoryStyle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@color/colorGreen"
+        android:text="@string/places" />
+
+    <TextView
+        android:id="@+id/cinemas_abk"
+        style="@style/CategoryStyle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@color/colorNavyBlue"
+        android:text="@string/cinemas" />
+
+    <TextView
+        android:id="@+id/events_abk"
+        style="@style/CategoryStyle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@color/colorDarkYellow"
+        android:text="@string/events" />
+
+    <TextView
+        android:id="@+id/hotels_abk"
+        style="@style/CategoryStyle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@color/colorRed"
+        android:text="@string/hotels" />
+
+</LinearLayout>

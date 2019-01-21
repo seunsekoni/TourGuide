@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha=".8"
+    android:background="@drawable/images_third_mainland"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/home_screen_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="@string/home_screen_text"
+        android:textColor="@color/colorWhite"
+        android:textSize="32sp"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/choose_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/location_abk"
+        android:layout_centerInParent="true"
+        android:text="@string/choose_location"
+        android:textColor="@color/colorWhite"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/location_abk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:drawableLeft="@drawable/logo_abk"
+        android:text="@string/abeokuta_location"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/location_lag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/location_abk"
+        android:layout_centerInParent="true"
+        android:drawableLeft="@drawable/logo_lag"
+        android:text="@string/lagos_location"
+        android:textSize="18sp" />
+
+</RelativeLayout>

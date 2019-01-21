@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="home_screen_text">A Guide To Every City</string>
+    <string name="choose_location">Choose a location</string>
+    <string name="abeokuta_location">Abeokuta</string>
+    <string name="lagos_location">Lagos</string>
+    <string name="places">Places</string>
+    <string name="cinemas">Cinemas</string>
+    <string name="events">Events</string>
+    <string name="hotels">Hotels</string>
+    <string name="national_theater">The National Arts Theatre is the primary centre for the
+        performing arts in Nigeria. The monument is located in Iganmu, Surulere, Lagos.
+        Its construction was completed in 1976 in preparation for the Festival of Arts and Culture
+        (FESTAC) in 1977.map location(geo:6.476389,3.369444).</string>
+
+    <!--String to get TBS data-->
+    <string name="tbs">The entrance to the Tafawa Balewa Square(TBS) has gigantic sculptures of four white horses
+        hovering above the gate and seven red eagles, which are symbols from the national emblem
+        signifying Strength and Dignity respectively. (map location: 6.445751, 3.401547)</string>
+
+    <string name="amusement_park">In the heart of Lagos State,the amusement Park is a place filled with so much fun
+        and joy that everybody wants to visit. If not for engaging games but for the opportunity to
+        free one\'s self of all the bonds and stress of work and at the same time spend quality time
+        with the family. 6.443481, 3.368001  </string>
+
+    <!--shows the string details about the banana island in lag-->
+    <string name="banana_island">The original Banana Island construction project entitled Lagoon
+        City was the brainchild of the Late Chief Adebayo Adeleke, a University of London trained
+        Civil Engineer (MICE), and CEO of City Property Development Ltd.</string>
+
+    <!--shows the string details about the elegushi beach in lag-->
+    <string name="elegushi">Elegushi Beach is a private beach located at Lekki, Lagos state, South
+        west of Nigeria. The beach is owned by the Elegushi royal family in Lekki, Lagos state.
+        6.421878, 3.485918</string>
+
+    <!--shows the string details about the freedom park in lag-->
+    <string name="freedom_park">Freedom Park is a memorial and leisure park area in the middle of
+        downtown Lagos in Lagos Island, Nigeria which was formerly Her Majesty\'s Broad Street Prison.
+        It was designed by the Architect Theo Lawson.</string>
+
+    <!--shows the string details about the Lekki Consevation center in lag-->
+    <string name="lekki_center">The Lekki Conservation centre was established in 1990 to serve as
+        biodiversitynconservation icon and environment education centre. The facility was built by
+        the Chevron Corporation for the Nigerian Conservation Foundation (NCF), as a reserved
+        sanctuary for the rich flora and fauna of the Lekki Peninsula. </string>
+
+    <!--CINEMAS! CINEMAS!! CINEMAS!!!-->
+
+    <!--shows the string details for the SilverBird Cinemas in lag-->
+    <string name="silverbird">The Silverbird Cinema is one of the biggest cinemas in West Africa
+        with 69 screens in branches across Nigeria, Accra and Nairobi.
+
+The first cinema was opened in May 2004 at the Silverbird Galleria in Victoria Island, Lagos.
+        Massive commercial success has given rise to the opening of additional multiplexes in
+        different locations across Nigeria</string>
+
+    <!--shows the string details for the Ozone Cinemas in lag-->
+    <string name="ozone">Ozone Cinemas is located within e-Centre Mall in Yaba Lagos. Ozone is a
+        four-screen multiplex cinema with 619 luxury seats. It is also owned and run by the
+        promoters of Silverbird Cinemas. They constantly show current movies and it’s an exciting
+        place especially for younger viewers.</string>
+
+    <!--shows the string details for the Deluxe Cinemas in lag-->
+    <string name="deluxe">Genesis Deluxe Cinemas is one of Nigeria’s leading operators of multiplex
+        cinemas in Nigeria. The company started in Lagos in 2008, today, it has grown into a
+        household name with 7 cinemas with 28 screens and over 4000 seats. Genesis Cinemas has
+        cinemas located in Lagos, Port-Harcourt, Warri, Owerri, and Abuja</string>
+
+    <!--shows the string details for the Imax Cinemas in lag-->
+    <string name="imax">Filmhouse Cinemas Limited is a dynamic film exhibition company with a vision
+        to be the no.1 cinema brand in Nigeria. We are currently implementing a strategic
+        development plan to roll-out twenty five (25) cinemas over a six (6) year period that
+        commenced in December, 2012.</string>
+
+    <!--shows the string details for the Maturion Cinemas in lag-->
+    <string name="maturion">Marturion Cinemas Limited is an exhibitor of cinema content, dedicated
+        to giving our guests a great cinematic experience at all times.
+        Marturion Cinemas is part of the Marturion Group, dedicated to the creation, distribution
+        and exhibition of entertainment content across all consumer bases in Nigeria and beyond.
+    </string>
+
+    <!--shows the string details for the Dos Cinemas in lag-->
+    <string name="doslagos">Dos Lagos 15 is a state of the art movie theater featuring all stadium
+        seating, all digital projection, digital surround sound, digital 3-d great concession items
+        and a terrific location.</string>
+
+</resources>
